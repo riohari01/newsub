@@ -1,0 +1,81 @@
+.main-background{
+  
+    background-image: linear-gradient(rgb(0,0,0,0.5) ,rgb( 0,0,0,0.5)),url(c1.jpg);
+    width: 100% !important;
+    height: 100vh !important;
+    background-position: center;
+    background-size: cover;
+
+}
+.list-color>li>a{
+    color: #fff !important;
+}
+.width-icon{
+    font-size: 25px;
+}
+.hr-large{
+    border-top: 2px solid whitesmoke !important;
+    margin-top: 0 !important;
+}
+.heading-color{
+    color: whitesmoke !important;
+}
+.card-border{
+    /* color: whitesmoke !important;
+    background-color: transparent !important;
+    width: 80%; */
+    border-radius: 15px !important;
+}
+.border-none{
+    border: none !important;
+}
+.ms-changes{
+    width: fit-content;
+    height: fit-content;
+    position: fixed;
+    top: 25%;
+    right: 1%;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    z-index: 999;
+}
+.ms-nav{
+    list-style: none;
+    padding: 10px;
+
+}
+.ms-nav li{
+   
+    padding: 10px;
+
+}
+.ms-nav li:hover{
+     background-color: rgb(228, 228, 228);
+}
+.scroll-img{
+    width: 100% !important;
+    height: 300px;
+    object-fit: cover;
+}
+.align-center{
+    align-self: center !important;
+}
+.video{
+    
+    width: 1000px !important;
+    height: 500px !important;
+}
+.canvas, svg, video {
+   width: 15px;
+    height: auto;
+    box-sizing: border-box;
+}
+.background-overlay{
+    background: linear-gradient(rgb(0,0,0,0.5), rgb(0,0,0,0.5)),url(n1\ \(2\).jpg);
+    background-position: center;
+    background-size: cover;
+}
+.bg-color{
+    background-color: rgb(216, 218, 217);
+}
+   
